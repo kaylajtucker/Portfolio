@@ -26,6 +26,7 @@ I enjoy solving problems, identifying patterns, and turning complex information 
   - JavaScript / D3
     - [University Parental Leave Visualization](#university-parental-leave-visualization)
 - [Education](#education)
+- [Contacts](#contacts)
 
 
 
