@@ -47,10 +47,28 @@
 
 **Goal:** To analyze how housing prices and occupational income in Connecticut changed from 2006–2023 and evaluate whether housing affordability has worsened over time.
 
-**Description:** This project combines Connecticut housing, occupational income, and inflation data to examine long-term affordability trends. The analysis includes data cleaning, merging multiple datasets, inflation-adjusted comparisons, affordability metrics, visualizations, feature engineering, and predictive modeling. An XGBoost regression model was developed and tuned using RandomizedSearchCV and GridSearchCV, then used to generate affordability projections through 2040. :chatgpt-content-reference{index="0"}
+**Description:** This project combines Connecticut housing, occupational income, and inflation data to examine long-term affordability trends. The analysis includes data cleaning, merging multiple datasets, inflation-adjusted comparisons, affordability metrics, visualizations, feature engineering, and predictive modeling. An XGBoost regression model was developed and tuned using RandomizedSearchCV and GridSearchCV, then used to generate affordability projections through 2040. 
 
 **Skills:** data cleaning, data integration, exploratory data analysis, feature engineering, inflation adjustment, regression modeling, hyperparameter tuning, forecasting, data visualization.
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost.
 
-**Results:** Historical analysis showed that Connecticut housing prices have generally grown faster than occupational income, with the affordability gap becoming more pronounced in recent years. The XGBoost projections estimated a median affordability gap of approximately $225,096 in 2024 and about $228,780 by 2040, indicating persistent affordability pressure under the projected trends. :chatgpt-content-reference{index="1"}
+**Results:** Historical analysis showed that Connecticut housing prices have generally grown faster than occupational income, with the affordability gap becoming more pronounced in recent years. The XGBoost projections estimated a median affordability gap of approximately $225,096 in 2024 and about $228,780 by 2040, indicating persistent affordability pressure under the projected trends. 
+
+
+
+### Student Placement Prediction
+
+**Notebook:** [`Student Placement Prediction.ipynb`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/Student_Placement_Prediction.ipynb)
+
+**Presentation:** [`Student Placement Prediction.pptx`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/Student_Placement_Prediction.pptx)
+
+**Goal:** To build a supervised machine learning classification pipeline to predict whether a student would receive job placement based on academic performance, internship experience, communication skills, and other student factors.
+
+**Description:** The project used a dataset of 10,000 student records and included data exploration, categorical encoding, feature scaling, stratified train-test splitting, model comparison, cross-validation, and hyperparameter tuning. Multiple classification models were evaluated, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and K-Nearest Neighbors. 
+
+**Skills:** data preprocessing, exploratory data analysis, feature encoding, feature scaling, classification modeling, train-test splitting, cross-validation, hyperparameter tuning, model evaluation, confusion matrices.
+
+**Technology:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+
+**Results:** Random Forest produced the strongest performance, achieving approximately 99.9% accuracy, while the tuned SVM achieved 97.4% accuracy. The analysis identified CGPA, previous semester results, and communication skills as important predictors of placement, while also noting class imbalance as a limitation. 
