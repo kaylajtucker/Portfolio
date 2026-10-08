@@ -17,8 +17,7 @@
   - JavaScript / D3
     - [University Parental Leave Visualization](#university-parental-leave-visualization)
 - [Education](#education)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
+
 
 
 ## Portfolio Projects
@@ -111,4 +110,9 @@ In this section, I will list data analytics and data science projects, briefly d
 **Results:** Private universities generally offered more paid parental leave overall, while public universities showed a larger difference between leave provided to women and men.
 
 
-#
+## Education
+
+Old Dominion University: Master of Science - MS, Data Science & Analytics with a Concentration in Business Intelligence, August 2025 - December 2026
+
+Old Dominion University: Bachelor of Science - BS, Computer Science, August 2021 - May 2025
+
