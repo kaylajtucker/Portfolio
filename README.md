@@ -38,3 +38,19 @@
 **Technology:** MySQL, MySQL Workbench, SQL.
 
 **Results:** The analysis compared monthly chlorophyll-a averages with the overall average, identified minimum and maximum CHLA measurements at each station with their collection dates and times, summarized sample replicate types, and identified station-month combinations where CHLA measurements remained at or below the specified 18.0 µg/L threshold.
+
+
+
+### Connecticut Housing Affordability Analysis & Forecasting
+
+**Notebook:** [`Connecticut Housing Affordability Analysis & Forecasting`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/Connecticut_Housing_Affordability_Analysis_%26_Forecasting.ipynb)
+
+**Goal:** To analyze how housing prices and occupational income in Connecticut changed from 2006–2023 and evaluate whether housing affordability has worsened over time.
+
+**Description:** This project combines Connecticut housing, occupational income, and inflation data to examine long-term affordability trends. The analysis includes data cleaning, merging multiple datasets, inflation-adjusted comparisons, affordability metrics, visualizations, feature engineering, and predictive modeling. An XGBoost regression model was developed and tuned using RandomizedSearchCV and GridSearchCV, then used to generate affordability projections through 2040. :chatgpt-content-reference{index="0"}
+
+**Skills:** data cleaning, data integration, exploratory data analysis, feature engineering, inflation adjustment, regression modeling, hyperparameter tuning, forecasting, data visualization.
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost.
+
+**Results:** Historical analysis showed that Connecticut housing prices have generally grown faster than occupational income, with the affordability gap becoming more pronounced in recent years. The XGBoost projections estimated a median affordability gap of approximately $225,096 in 2024 and about $228,780 by 2040, indicating persistent affordability pressure under the projected trends. :chatgpt-content-reference{index="1"}
