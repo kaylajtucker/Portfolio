@@ -8,6 +8,10 @@
 
 **Dashboard:** [`Superstore Profitability Dashboard`](https://public.tableau.com/views/SuperstoreProfitabilityRegionalPerformanceDashboard/ProfitabilityStoryCategoryRegionDrivers?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+**File:** [`Superstore Profitability Dashboard.twbx`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/Superstore%20Profitability%20Dashboard.twbx)
+
+**Written Analysis:** [`Superstore Analysis`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/Superstore%20Profitability%20Analysis.pdf)
+
 **Goal:** To analyze sales and profitability across product categories, subcategories, and regions in order to identify areas driving strong performance and areas contributing to losses.
 
 **Description:** The project analyzes the Superstore dataset to evaluate profitability across product categories, subcategories, states, and regions. The analysis includes KPI tracking, product performance, regional profitability, profit-versus-sales analysis, Pareto analysis, outlier analysis, and interactive filtering. The dashboard was designed to identify high-performing products and regions while highlighting areas where pricing, inventory, or operational changes may improve profitability.
