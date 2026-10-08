@@ -72,3 +72,20 @@
 **Technology:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 
 **Results:** Random Forest produced the strongest performance, achieving approximately 99.9% accuracy, while the tuned SVM achieved 97.4% accuracy. The analysis identified CGPA, previous semester results, and communication skills as important predictors of placement, while also noting class imbalance as a limitation. 
+
+
+### University Parental Leave Visualization
+
+**Project Report:** [`University Parental Leave Visualization`](https://github.com/kaylajtucker/PortfolioProjects/blob/main/parental-leave-project-report.md)
+
+**Interactive Visualization:** [`Observable Chart`](https://observablehq.com/d/669fe1ffb022b1a6)
+
+**Goal:** To compare paid parental leave policies at public and private universities and examine differences in leave provided to women and men.
+
+**Description:** This project analyzed parental leave policies from U.S. and Canadian universities using data from the 2018 parental leave repository. After cleaning missing and invalid values, I explored the data in Python and developed an interactive grouped bar chart in Observable to compare average paid leave by university type and gender. :chatgpt-content-reference{index="0"}
+
+**Skills:** data cleaning, exploratory data analysis, data visualization, interactive visualization, annotation design, hover interactions, tooltip design, comparative analysis.
+
+**Technology:** Python, Pandas, Matplotlib, Seaborn, JavaScript, D3, Observable.
+
+**Results:** The analysis found that private universities generally offered more paid parental leave overall, while public universities showed a larger gap between leave provided to women and men. The final visualization used annotations, hover highlighting, and tooltips to make these differences easier to interpret. :chatgpt-content-reference{index="1"} :chatgpt-content-reference{index="2"}
