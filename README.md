@@ -1,11 +1,20 @@
 # Kayla Tucker Portfolio
 
 
+## About
 
+Hello, I'm Kayla! I’m a Data Science Master’s student at Old Dominion University with a strong interest in using data to support better decisions and improve business processes.
+
+My experience includes working with SQL for querying and managing data, Excel for analysis and reporting, and Tableau and Power BI for creating dashboards and visualizations. Through academic projects, I have also gained experience with Python, machine learning, database development, forecasting, and interactive data visualization.
+
+In my current role as a Graduate Assistant with ODU’s Summer Conferences team, I support data tracking, event logistics, and daily operations. I previously worked with ODU Recreation & Wellness, where I used membership and facility data to support process improvements and enhance user experiences.
+
+I enjoy solving problems, identifying patterns, and turning complex information into clear, useful insights. I am currently seeking opportunities in data analytics or business analytics where I can apply both my technical and analytical skills to real-world challenges.
 
 
 ## Table of Contents
 
+- [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Connecticut Housing Affordability Analysis & Forecasting](#connecticut-housing-affordability-analysis--forecasting)
