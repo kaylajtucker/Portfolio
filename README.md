@@ -116,3 +116,8 @@ Old Dominion University: Master of Science - MS, Data Science & Analytics with a
 
 Old Dominion University: Bachelor of Science - BS, Computer Science, August 2021 - May 2025
 
+## Contacts
+
+- LinkedIn: [Link](https://www.linkedin.com/in/kaylajtucker)
+- Email: kaytucker03@gmail.com
+
